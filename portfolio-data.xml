@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<portfolio>
+    <student>
+        <name>Ashwini</name>
+        <college>Malnad College of Engineering</college>
+        <degree>B.E in Computer Science and Engineering</degree>
+        <year>3rd Year (2022-2026)</year>
+        <location>Hassan, Karnataka</location>
+        <email>ashwini@example.com</email>
+        <phone>+91 98765 43210</phone>
+    </student>
+    
+    <skills>
+        <category name="Frontend Development">
+            <skill>
+                <name>HTML5 &amp; CSS3</name>
+                <level>85</level>
+            </skill>
+            <skill>
+                <name>JavaScript</name>
+                <level>75</level>
+            </skill>
+            <skill>
+                <name>React.js</name>
+                <level>65</level>
+            </skill>
+            <skill>
+                <name>Bootstrap</name>
+                <level>70</level>
+            </skill>
+        </category>
+        
+        <category name="Backend &amp; Database">
+            <skill>
+                <name>Java</name>
+                <level>80</level>
+            </skill>
+            <skill>
+                <name>Python</name>
+                <level>70</level>
+            </skill>
+            <skill>
+                <name>MySQL</name>
+                <level>75</level>
+            </skill>
+            <skill>
+                <name>MongoDB</name>
+                <level>60</level>
+            </skill>
+        </category>
+        
+        <category name="Tools &amp; Others">
+            <skill>
+                <name>Git &amp; GitHub</name>
+                <level>75</level>
+            </skill>
+            <skill>
+                <name>Figma</name>
+                <level>60</level>
+            </skill>
+            <skill>
+                <name>VS Code</name>
+                <level>85</level>
+            </skill>
+            <skill>
+                <name>Responsive Design</name>
+                <level>80</level>
+            </skill>
+        </category>
+    </skills>
+    
+    <projects>
+        <project featured="true">
+            <title>Todo List App</title>
+            <category>Web Application</category>
+            <description>A simple and elegant todo list application with local storage, task filtering, and a clean user interface.</description>
+            <technologies>
+                <tech>HTML</tech>
+                <tech>CSS</tech>
+                <tech>JavaScript</tech>
+            </technologies>
+            <links>
+                <demo>#</demo>
+                <github>#</github>
+            </links>
+        </project>
+        
+        <project featured="false">
+            <title>Calculator</title>
+            <category>Web App</category>
+            <description>A functional calculator with basic operations and a modern design.</description>
+            <technologies>
+                <tech>HTML</tech>
+                <tech>CSS</tech>
+                <tech>JavaScript</tech>
+            </technologies>
+            <links>
+                <demo>#</demo>
+                <github>#</github>
+            </links>
+        </project>
+        
+        <project featured="false">
+            <title>Weather App</title>
+            <category>API Project</category>
+            <description>Get real-time weather information for any city using a weather API.</description>
+            <technologies>
+                <tech>JavaScript</tech>
+                <tech>API</tech>
+                <tech>CSS</tech>
+            </technologies>
+            <links>
+                <demo>#</demo>
+                <github>#</github>
+            </links>
+        </project>
+        
+        <project featured="false">
+            <title>Personal Portfolio</title>
+            <category>Portfolio</category>
+            <description>This portfolio website! Built to showcase my projects and practice responsive design.</description>
+            <technologies>
+                <tech>HTML</tech>
+                <tech>CSS</tech>
+                <tech>JavaScript</tech>
+            </technologies>
+            <links>
+                <demo>#</demo>
+                <github>#</github>
+            </links>
+        </project>
+        
+        <project featured="false">
+            <title>Recipe Finder</title>
+            <category>Web App</category>
+            <description>Search for recipes by ingredients using a recipe API.</description>
+            <technologies>
+                <tech>JavaScript</tech>
+                <tech>API</tech>
+                <tech>Bootstrap</tech>
+            </technologies>
+            <links>
+                <demo>#</demo>
+                <github>#</github>
+            </links>
+        </project>
+        
+        <project featured="false">
+            <title>Quiz Game</title>
+            <category>Game</category>
+            <description>An interactive quiz game with multiple categories and score tracking.</description>
+            <technologies>
+                <tech>JavaScript</tech>
+                <tech>HTML</tech>
+                <tech>CSS</tech>
+            </technologies>
+            <links>
+                <demo>#</demo>
+                <github>#</github>
+            </links>
+        </project>
+    </projects>
+    
+    <interests>
+        <interest>Web Development</interest>
+        <interest>UI/UX Design</interest>
+        <interest>Coding</interest>
+        <interest>Learning</interest>
+        <interest>Music</interest>
+        <interest>Gaming</interest>
+    </interests>
+    
+    <social>
+        <github>#</github>
+        <linkedin>#</linkedin>
+        <twitter>#</twitter>
+        <codepen>#</codepen>
+        <instagram>#</instagram>
+    </social>
+</portfolio>
